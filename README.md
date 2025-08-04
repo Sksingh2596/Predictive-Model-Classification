@@ -39,6 +39,14 @@ Welcome to the Customer Churn Prediction project! This repository demonstrates h
 
 Each model’s accuracy, precision, recall, and F1-score are displayed for comparison.
 
+| Metric    | Decision Tree | Logistic Regression |
+| --------- | --------------| ------------------- |
+| Accuracy  |    *0.9145*   | *0.8651* | 
+| Precision |    *0.6931*   | *0.5789* | 
+| Recall    |    *0.7292*   | *0.2292* | 
+| F1-Score  |    *0.7107*   | *0.3284* | 
+
+
 📈 Results
 
 After tuning the Random Forest, the confusion matrix below summarizes the prediction results:
