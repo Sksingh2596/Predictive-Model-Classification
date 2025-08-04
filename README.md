@@ -38,6 +38,7 @@ Welcome to the Customer Churn Prediction project! This repository demonstrates h
     Tuned Random Forest (via GridSearchCV)
 
 Each model’s accuracy, precision, recall, and F1-score are displayed for comparison.
+
 📈 Results
 
 After tuning the Random Forest, the confusion matrix below summarizes the prediction results:
