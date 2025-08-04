@@ -1,6 +1,7 @@
 📊 Customer Churn Prediction with Machine Learning
 
 Welcome to the Customer Churn Prediction project! This repository demonstrates how to preprocess data, train, tune, and evaluate multiple machine learning models to predict customer churn using Python, scikit-learn, and pandas.
+
 🚀 Project Overview
 
     Goal: Predict whether a customer will churn using various supervised learning algorithms.
